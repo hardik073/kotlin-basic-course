@@ -1,5 +1,5 @@
 package kotlin
 
-fun main(){
-    print("Hello World !");
+fun main(args: Array<String>){
+    print("Hello World !")
 }
